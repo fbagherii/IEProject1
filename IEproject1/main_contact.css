@@ -1,0 +1,136 @@
+﻿#p1{
+    margin-right:300px;
+   margin-top:-10px;
+}
+#p2 {
+    margin-right: 300px;
+   font-size:16px;
+    padding-top: 20px;
+}
+#firstdiv{
+    width:430px;
+    height:100px;
+    margin-right:280px;
+    background-color:aqua;
+    float:right;
+}
+#email{
+    padding-right:20px;
+    padding-top:10px;
+    float:right;
+}
+#p3{
+    
+    padding-top:15px;
+    padding-right:10px;
+    float:right;
+}
+#phone {
+    padding-right: 30px;
+    padding-top: 10px;
+    float: right;
+}
+#p4 {
+    padding-top: 15px;
+    padding-right:10px;
+    float: right;
+}
+#seconddiv{
+    background-color:white;
+    width:240px;
+    height:100px;
+    margin-right:720px;
+}
+#p5{
+padding-top:22px;
+padding-right:10px;
+}
+
+#thirddiv{
+    width:320px;
+    height:300px;
+    background-color:brown;
+    margin-right:287px;
+    float:right;
+    
+}
+#p6{
+    padding-top:35px;
+}
+#forthdiv{
+    width:510px;
+    height:320px;
+    margin-right:610px;
+    background-color:chartreuse;
+
+}
+#fifthdiv{
+    margin-right:283px;
+    width:740px;
+    height:50px;
+    background-color:rgb(186,103,103);
+    align-content:center;
+    border-radius:5px;
+}
+#p7{
+    padding-right:30px;
+    color:white;
+    padding-top:5px;
+}
+#sixthdiv{
+    margin-right:285px;
+    width:500px;
+    background-color:aquamarine;
+}
+#p8{
+font-size:16px;
+margin-bottom:-10px;
+}
+#seventhdiv{
+    margin-right:290px;
+    width:800px;
+    height:350px;
+    background-color:burlywood;
+}
+.site{
+    width:210px;
+   height:25px;
+   direction:rtl;
+    margin-right:35px;
+    direction:ltr;
+    margin-top:65px;
+    border-radius:20px;
+    float:right;
+}
+#p9 {
+    position: absolute;
+    float: right;
+    padding-right: 40px;
+    padding-top: 40px;
+    font-size: 10px;
+    color: blue;
+}
+#p10 {
+    position: absolute;
+    float: right;
+    margin-right: 295px;
+    margin-top: 50px;
+    font-size: 10px;
+    color: blue;
+}
+#p11{
+    font-size:10px;
+    color:blue;
+    position:absolute;
+    float:right;
+    margin-right:545px;
+    margin-top:50px;
+}
+#area{
+    width:710px;
+    height:180px;
+    border-radius:20px;
+    margin-top:30px;
+    margin-right:40px;
+    
+}

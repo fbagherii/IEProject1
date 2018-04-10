@@ -1,0 +1,39 @@
+﻿#footer{
+    margin-top:30px;
+    background-color:rgb(239,239,239);
+    width:100%;
+    height:160px;
+}
+
+.li2{
+    margin-top:7px;
+    margin-right:170px;
+    list-style-type:none;
+
+    
+}
+#khadamat{
+    font-size:14px;
+}
+#khadamat1 {
+    font-size: 14px;
+}
+.li3 {
+   list-style-type:none;
+   margin-right:330px;
+   position:relative;
+   margin-top:-46px;
+   padding-top:-10px;
+  
+}
+#hh{
+    margin-right:510px;
+    margin-top:-96px;
+    font-size:14px;
+    font-weight:200;
+}
+#copyright{
+    margin-right:820px;
+    margin-top:-41px;
+
+}
